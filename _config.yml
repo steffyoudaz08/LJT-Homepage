@@ -8,8 +8,8 @@ name: Junteng Liu
 description: > # this means to ignore newlines until "last_name"
   Junteng Liu's personal homepage. First-year PhD candidate at HKUST NLP Group.
 email: jliugi@connect.ust.hk
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://steffyoudaz08.github.io/LJT-Homepage"
+baseurl: "/LJT-Homepage" # the subpath of your site, e.g. /blog
+url: "https://steffyoudaz08.github.io"
 repository: steffyoudaz08/LJT-Homepage
 twitter_username: junteng88716710
 github_username: Vicent0205
